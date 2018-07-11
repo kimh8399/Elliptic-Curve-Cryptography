@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1485324845 source:c:\users\matilda\desktop\elliptic curve encryption\main.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+	"ECC_ellipseFunc.h"
+
+1485324611 source:c:\users\matilda\desktop\elliptic curve encryption\ecc_basicfunc.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+
+1485305890 c:\users\matilda\desktop\elliptic curve encryption\ecc_libraries.h
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<fstream>
+	<cstdio>
+	<bitset>
+	<cstdlib>
+	<ctime>
+	"ECC_structs.h"
+
+1485317744 c:\users\matilda\desktop\elliptic curve encryption\ecc_basicfunc.h
+	"ECC_libraries.h"
+
+1485305873 c:\users\matilda\desktop\elliptic curve encryption\ecc_structs.h
+
+1485324837 source:c:\users\matilda\desktop\elliptic curve encryption\ecc_ellipsefunc.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+	"ECC_ellipseFunc.h"
+
+1485313181 c:\users\matilda\desktop\elliptic curve encryption\ecc_ellipsefunc.h
+	"ECC_libraries.h"
+
+1485357165 source:c:\users\huckkim\desktop\elliptic curve encryption\ecc_basicfunc.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+
+1485357165 c:\users\huckkim\desktop\elliptic curve encryption\ecc_libraries.h
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<fstream>
+	<cstdio>
+	<bitset>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"ECC_structs.h"
+	<stdio.h>
+	<gmp.h>
+
+1485315324 c:\users\huckkim\desktop\elliptic curve encryption\ecc_structs.h
+
+1485315324 c:\users\huckkim\desktop\elliptic curve encryption\ecc_basicfunc.h
+	"ECC_libraries.h"
+
+1485370027 source:c:\users\huckkim\desktop\elliptic curve encryption\ecc_ellipsefunc.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+	"ECC_ellipseFunc.h"
+
+1485369137 c:\users\huckkim\desktop\elliptic curve encryption\ecc_ellipsefunc.h
+	"ECC_libraries.h"
+
+1485371698 source:c:\users\huckkim\desktop\elliptic curve encryption\main.cpp
+	"ECC_libraries.h"
+	"ECC_basicFunc.h"
+	"ECC_ellipseFunc.h"
+
+1035175203 c:\users\huckkim\downloads\gmp-static-mingw-4.1\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
